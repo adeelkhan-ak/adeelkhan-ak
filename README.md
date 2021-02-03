@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adeel Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan,pk</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adeelkhan-ak&label=Profile%20views&color=0e75b6&style=flat" alt="adeelkhan-ak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeelkhan-ak" alt="adeelkhan-ak" /></a> </p>
 
 - 🌱 I’m currently learning **Django**
 
