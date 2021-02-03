@@ -26,6 +26,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeelkhan-ak&show_icons=true&locale=en&layout=compact" alt="adeelkhan-ak" /></p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelkhan-ak&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="adeelkhan-ak" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeelkhan-ak&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
+</p>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeelkhan-ak&show_icons=true&locale=en" alt="adeelkhan-ak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeelkhan-ak&" alt="adeelkhan-ak" /></p>
