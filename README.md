@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://dev.to/adeelkhanak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adeelkhanak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adeel khan adeel has a account" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adeel khan adeel has a account" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/ak140175" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ak140175" height="30" width="40" /></a>
 </p>
 
