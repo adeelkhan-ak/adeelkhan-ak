@@ -12,7 +12,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://dev.to/adeelkhanak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adeelkhanak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adeelkhan-ak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adeelkhan-ak" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ak140175" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ak140175" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelkhan-ak&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="adeelkhan-ak" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeelkhan-ak&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelkhan-ak&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="adeelkhan-ak" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeelkhan-ak&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
 </p>
 
 
