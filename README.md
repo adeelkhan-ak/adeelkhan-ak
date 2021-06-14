@@ -29,5 +29,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeelkhan-ak&" alt="adeelkhan-ak" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeelkhan-ak&" alt="adeelkhan-ak" /></p>
 
