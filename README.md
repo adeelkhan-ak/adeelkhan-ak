@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **ak140175@gmail.com**
 
