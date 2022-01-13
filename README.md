@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ak140175@gmail.com**
 
-- ⚡ Fun fact **soccer fan**
+- ⚡ Fun fact **Soccer fan**
 
 
 
